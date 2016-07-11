@@ -1,0 +1,9 @@
+    safemode = false
+    double_debug = false
+    boxcode="AAAAA"
+    access_id="00000001"
+    domain="air.tonylianlong.com"
+    wifi_enable = false
+    wifi_SSID=""
+    wifi_password=""
+    beep_enabled = true;
